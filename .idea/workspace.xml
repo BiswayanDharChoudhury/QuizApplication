@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c2da277e-34ef-4451-bc7a-dbb31f1172ef" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuizApplication" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuizApplication/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuizApplication/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuizApplication/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuizApplication/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuizApplication/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuizApplication/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuizApplication/src/main/java/com/telusko/quizapp/QuizappApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuizApplication/src/main/java/com/telusko/quizapp/controller/QuestionController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuizApplication/src/main/java/com/telusko/quizapp/controller/QuizController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuizApplication/src/main/java/com/telusko/quizapp/dao/QuestionDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuizApplication/src/main/java/com/telusko/quizapp/dao/QuizDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuizApplication/src/main/java/com/telusko/quizapp/model/Question.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuizApplication/src/main/java/com/telusko/quizapp/model/QuestionWrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuizApplication/src/main/java/com/telusko/quizapp/model/Quiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuizApplication/src/main/java/com/telusko/quizapp/model/Response.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuizApplication/src/main/java/com/telusko/quizapp/service/QuestionService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuizApplication/src/main/java/com/telusko/quizapp/service/QuizService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuizApplication/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuizApplication/src/test/java/com/telusko/quizapp/QuizappApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/QuizApplication" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="30oBEUruS0tADghriiQajX6IxJ7" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c2da277e-34ef-4451-bc7a-dbb31f1172ef" name="Changes" comment="" />
+      <created>1754283934048</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1754283934048</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
